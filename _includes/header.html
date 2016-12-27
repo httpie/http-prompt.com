@@ -1,0 +1,26 @@
+<header class="navbar navbar-light navbar-static-top bd-navbar">
+	<div class="container">
+		<nav>
+      <div class="brand-container">
+        <button class="navbar-toggler float-xs-right hidden-sm-up" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="main-nav" aria-expanded="false" aria-label="Toggle navigation"></button>
+				<a class="navbar-brand" href="/">HTTP Prompt</a>
+      </div>
+      <div class="collapse navbar-toggleable-xs" id="main-nav">
+        <ul class="nav navbar-nav float-xs-right">
+					<li class="nav-item{% if page.current_nav == 'themes' %} active{% endif %}">
+            <a class="nav-item nav-link" href="/themes">Themes</a>
+          </li>
+          <li class="nav-item">
+						<a class="nav-item nav-link " href="{{ site.docs_url }}">Docs</a>
+          </li>
+          <li class="nav-item">
+						<a class="nav-item nav-link " href="{{ site.gitter_url }}">Gitter</a>
+          </li>
+          <li class="nav-item">
+						<a class="nav-item nav-link " href="{{ site.github_url }}">GitHub</a>
+          </li>
+        </ul>
+      </div>
+		</nav>
+	</div>
+</header>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+	{% include header.html %}
+
+	{% if page.pageheader %}
+		<div class="pageheader text-xs-center">
+			<div class="container">
+				<p class="lead">
+					HTTP Prompt is an interactive command-line HTTP client featuring <em>autocomplete</em> and <em>syntax highlighting</em>.
+				</p>
+				<p class="lead">
+					<asciinema-player src="/asciicast.json" rows="16" cols="65" preload="1" loop="1" speed="2" poster="npt:20" font-size="medium" theme="monokai"></asciinema-player>
+				</p>
+				<p class="lead btns">
+					<a href="#install" data-scroll class="btn btn-success btn-lg" id="main-install-btn">Install</a>
+					<a href="{{ site.docs_url }}" class="btn btn-secondary btn-lg" id="main-docs-btn">Documentation</a>
+					<iframe src="https://ghbtns.com/github-btn.html?user=eliangcs&repo=http-prompt&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px" class="ghbtn"></iframe>
+					<!-- Place this tag where you want the button to render. -->
+				</p>
+			</div>
+		</div>
+	{% endif %}
+
+	<div id="content">
+		{{ page.content }}
+	</div>
+
+	{% include footer.html %}
+
+	<!-- Bootstrap core JavaScript
+	================================================== -->
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/10.2.0/js/smooth-scroll.min.js"></script>
+
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+	<script src="/assets/js/asciinema-player.js"></script>
+	<script>
+		function selectText(elem) {
+			if (document.selection) {
+					var range = document.body.createTextRange();
+					range.moveToElementText(elem);
+					range.select();
+			} else if (window.getSelection) {
+					var range = document.createRange();
+					range.selectNode(elem);
+					window.getSelection().addRange(range);
+			}
+		}
+		smoothScroll.init();
+  </script>
+</body>
+</html>

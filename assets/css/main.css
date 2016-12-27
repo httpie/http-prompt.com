@@ -1,0 +1,164 @@
+a:hover {
+    text-decoration: underline !important;
+}
+
+body {
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+h1, h2, h3, h4, h5, h6, header {
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.btn {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    #main-install-btn {
+        margin-bottom: 8px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 760px;
+        max-width: 100%;
+    }
+}
+
+header {
+    border-bottom: 1px solid #eee;
+}
+
+.navbar-nav {
+    margin-top: 5px;
+}
+
+@media (min-width: 1200px) {
+    .brand-container {
+    }
+}
+
+@media (min-width: 500px) {
+    .brand-container {
+        @include clearfix;
+    }
+}
+
+.navbar-brand {
+    color: #505050 !important;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-item {
+    font-weight: normal;
+}
+
+.pageheader {
+    background: #eee;
+    padding: 40px 0 44px;
+}
+
+.pageheader .lead {
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.pageheader .lead em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.pageheader .btn {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pageheader .ghbtn {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.mega .button {
+    font-size: 20px !important;
+}
+
+#content h1 {
+    font-weight: normal;
+    margin: 40px 0 30px;
+    color: #303030;
+    font-size: 40px;
+    text-align: center;
+}
+
+#content {
+    font-size: 20px;
+    color: #515151;
+    line-height: 1.5em;
+}
+
+#features h2 {
+    font-weight: normal;
+    font-size: 24px;
+    margin: 10px 0;
+    color: #444;
+}
+
+#features p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+pre {
+    font-family: "DejaVu Sans Mono", "Consolas", "Menlo", monospace;
+}
+
+hr {
+    color: #eee;
+}
+
+#content .section {
+    text-align: center;
+}
+
+#pip-install::before {
+    content: "$ ";
+    color: #888;
+}
+
+#pip-install {
+    display: inline-block;
+    margin: 0 0 30px;
+    padding: 16px 24px;
+    background: #444;
+    color: #fff;
+    font-size: 22px;
+}
+
+#feature-hint,
+#install-hint {
+    color: #999;
+}
+
+footer {
+    background: #f7f7f7;
+    padding: 30px 0 16px;
+    margin-top: 30px;
+    text-align: center;
+    color: #818a91;
+    font-size: 16px;
+}
+
+footer .nav {
+    margin-bottom: 6px;
+}
+
+footer a:link,
+footer a:visited {
+    color: #55595c;
+}
