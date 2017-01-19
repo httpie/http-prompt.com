@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://http-prompt.com" # the base hostname & protocol for your site, e.g. http://example.com
 docs_url: "http://docs.http-prompt.com"
 docs_baseurl: "http://docs.http-prompt.com/en/latest"
+patreon_url: "https://patreon.com/eliangcs"
 github_url: "https://github.com/eliangcs/http-prompt"
 gitter_url: "https://gitter.im/eliangcs/http-prompt"
 producthunt_url: "https://www.producthunt.com/posts/http-prompt"
