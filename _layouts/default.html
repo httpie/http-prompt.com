@@ -55,7 +55,31 @@
 					window.getSelection().addRange(range);
 			}
 		}
+
 		smoothScroll.init();
+
+		function gaEvent(category, action, label) {
+			ga('send', 'event', {
+				eventCategory: category,
+				eventAction: action,
+				eventLabel: label,
+				transport: 'beacon'
+			});
+		}
+
+		$(function() {
+			$('a').click(function() {
+				gaEvent('link', 'click', $(this).attr('href'));
+			});
+
+			var played = false;
+			$('asciinema-player').on('click', '.asciinema-player', function() {
+				if (!played) {
+					gaEvent('video', 'play', 'asciicast');
+					played = true;
+				}
+			});
+		});
   </script>
 </body>
 </html>

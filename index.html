@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 pageheader: 1
 ---
 
@@ -42,7 +42,7 @@ pageheader: 1
 
 <div class="container section" id="install">
 	<h1>Installation</h1>
-	<pre id="pip-install" onclick="selectText(this);">pip install http-prompt</pre>
+	<pre id="pip-install" onclick="selectText(this); gaEvent('other', 'pip-install');">pip install http-prompt</pre>
 	<p id="install-hint">See more installation options in the <a href="http://docs.http-prompt.com/en/latest/user-guide.html#installation">docs</a>.</p>
 </div>
 
