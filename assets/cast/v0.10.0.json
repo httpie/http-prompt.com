@@ -1,0 +1,1474 @@
+{
+  "title": null,
+  "height": 27,
+  "stdout": [
+    [
+      0.834941,
+      "\u001b]4;0;rgb:1d/1f/21\u001b\\\u001b]4;1;rgb:cc/66/66\u001b\\\u001b]4;2;rgb:b5/bd/68\u001b\\\u001b]4;3;rgb:f0/c6/74\u001b\\\u001b]4;4;rgb:81/a2/be\u001b\\\u001b]4;5;rgb:b2/94/bb\u001b\\\u001b]4;6;rgb:8a/be/b7\u001b\\\u001b]4;7;rgb:c5/c8/c6\u001b\\\u001b]4;8;rgb:96/98/96\u001b\\"
+    ],
+    [
+      0.000136,
+      "\u001b]4;9;rgb:cc/66/66\u001b\\\u001b]4;10;rgb:b5/bd/68\u001b\\\u001b]4;11;rgb:f0/c6/74\u001b\\\u001b]4;12;rgb:81/a2/be\u001b\\\u001b]4;13;rgb:b2/94/bb\u001b\\\u001b]4;14;rgb:8a/be/b7\u001b\\\u001b]4;15;rgb:ff/ff/ff\u001b\\\u001b]4;16;rgb:de/93/5f\u001b\\\u001b]4;17;rgb:a3/68/5a\u001b\\\u001b]4;18;rgb:28/2a/2e\u001b\\\u001b]4;19;rgb:37/3b/41\u001b\\\u001b]4;20;rgb:b4/b7/b4\u001b\\\u001b]4;21;rgb:e0/e0/e0\u001b\\"
+    ],
+    [
+      0.000287,
+      "\u001b]Pgc5c8c6\u001b\\\u001b]Ph1d1f21\u001b\\\u001b]Pic5c8c6\u001b\\\u001b]Pj373b41\u001b\\\u001b]Pkc5c8c6\u001b\\\u001b]Plc5c8c6\u001b\\\u001b]Pm1d1f21\u001b\\"
+    ],
+    [
+      2.3565,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                 \r \r"
+    ],
+    [
+      0.081957,
+      "\u001b]2;eliang@eliang: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.024259,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~ ➤ \u001b[00m\u001b[K\u001b[93C\u001b[33m\u001b[00m\u001b[93D"
+    ],
+    [
+      4.8e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      9.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.620317,
+      "\u001b[1m\u001b[31mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.092262,
+      "\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.185023,
+      "\b\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.183768,
+      "\b\b\b\u001b[0m\u001b[32mh\u001b[0m\u001b[32mt\u001b[0m\u001b[32mt\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.216537,
+      "\b\b\b\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[1m\u001b[31mt\u001b[1m\u001b[31mp\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.261322,
+      "\b\u001b[1m\u001b[31m-\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.088064,
+      "\b\u001b[1m\u001b[31mp\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.120168,
+      "\b\u001b[1m\u001b[31mr\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.143519,
+      "\b\u001b[1m\u001b[31mo\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.081943,
+      "\b\u001b[1m\u001b[31mm\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.177888,
+      "\u001b[10D\u001b[0m\u001b[32mh\u001b[0m\u001b[32mt\u001b[0m\u001b[32mt\u001b[0m\u001b[32mp\u001b[0m\u001b[32m-\u001b[0m\u001b[32mp\u001b[0m\u001b[32mr\u001b[0m\u001b[32mo\u001b[0m\u001b[32mm\u001b[0m\u001b[32mp\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.136196,
+      " "
+    ],
+    [
+      0.334938,
+      "h"
+    ],
+    [
+      0.095192,
+      "t"
+    ],
+    [
+      0.137941,
+      "t"
+    ],
+    [
+      0.109575,
+      "p"
+    ],
+    [
+      0.103515,
+      "s"
+    ],
+    [
+      0.291909,
+      ":"
+    ],
+    [
+      0.19856,
+      "/"
+    ],
+    [
+      0.142834,
+      "/"
+    ],
+    [
+      0.145751,
+      "a"
+    ],
+    [
+      0.183082,
+      "p"
+    ],
+    [
+      0.168359,
+      "i"
+    ],
+    [
+      0.176204,
+      "."
+    ],
+    [
+      0.118494,
+      "g"
+    ],
+    [
+      0.103618,
+      "i"
+    ],
+    [
+      0.255445,
+      "t"
+    ],
+    [
+      0.294562,
+      "hub.com --spec=https://api.apis.guru/v2/specs/github.com/v3/swagger.json\u001b[K"
+    ],
+    [
+      1.178256,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      1.9e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000869,
+      "\u001b]2;http-prompt https://api.github.com \u0007\u001b]1;http-prompt\u0007"
+    ],
+    [
+      0.563387,
+      "Version: 0.10.0\r\n"
+    ],
+    [
+      1.194354,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001823,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[24C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.011168,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[20A\u001b[24C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.590573,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ml\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.010596,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m ALPN                  \u001b[0;38;5;0;48;5;246m Application-layer protocol negotiation to use \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Alt-Used              \u001b[0;38;5;0;48;5;246m Alternative host in use                       \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m delete                \u001b[0;38;5;0;48;5;246m DELETE request                                \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m help                  \u001b[0;38;5;0;48;5;246m List commands, actions, and HTTPie options    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m curl                  \u001b[0;38;5;0;48;5;246m Preview curl command                          \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m --follow              \u001b[0;38;5;0;48;5;246m Allow full redirects                          \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m --help                \u001b[0;38;5;0;48;5;246m Show tool (HTTPie, cURL) help message         \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m --style               \u001b[0;38;5;0;"
+    ],
+    [
+      3.5e-05,
+      "48;5;246m Output coloring style                         \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m --download            \u001b[0;38;5;0;48;5;246m Download as a file                            \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Accept-Language       \u001b[0;38;5;0;48;5;246m Preferred natural languages in response       \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content                 \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body             \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained                    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag             \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                         \u001b[0;48;5;238m \u001b["
+    ],
+    [
+      0.00016,
+      "0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m --session-read-only   \u001b[0;38;5;0;48;5;246m Create or read a session                      \u001b[0;48;5;238m \u001b[16A\u001b[71D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.051971,
+      "\u001b[?25l\b\u001b[0;38;5;81mls\u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                              "
+    ],
+    [
+      2.6e-05,
+      "                                         \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                       \u001b[16A\u001b[70D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002713,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Alt-Used \u001b[0;38;5;0;48;5;246m Alternative host in use \u001b[0;48;5;238m \u001b[A\u001b[36D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.222022,
+      "\u001b[?25l\u001b[26D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com> \u001b[0;38;5;81mls\u001b[26D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00015,
+      "\u001b[?2004l"
+    ],
+    [
+      0.013377,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      2.6e-05,
+      "\u001b[38;5;186memojis\u001b[39m        \u001b[38;5;186mgists\u001b[39m         \u001b[38;5;186mlegacy\u001b[39m        \u001b[38;5;186mnetworks\u001b[39m      \u001b[38;5;186mrate_limit\u001b[39m    \u001b[38;5;186msearch\u001b[39m        \u001b[38;5;186musers\u001b[39m\u001b[m\r\n\u001b[38;5;186mevents\u001b[39m        \u001b[38;5;186mgitignore\u001b[39m     \u001b[38;5;186mmarkdown\u001b[39m      \u001b[38;5;186mnotifications\u001b[39m \u001b[38;5;186mrepos\u001b[39m         \u001b[38;5;186mteams\u001b[39m\u001b[m\r\n\u001b[38;5;186mfeeds\u001b[39m         \u001b[38;5;186missues\u001b[39m        \u001b[38;5;186mmeta\u001b[39m          \u001b[38;5;186morgs\u001b[39m          \u001b[38;5;186mrepositories\u001b[39m  \u001b[38;5;186muser\u001b[39m\u001b[m\r\n"
+    ],
+    [
+      1.4e-05,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.013001,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001736,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[24C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007354,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[16A\u001b[24C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.471634,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.012101,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Connection            \u001b[0;38;5;0;48;5;246m Connection options                       \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                          \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content            \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained               \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Content-Type          \u001b[0;38;5;0;48;5;246m Content media type       "
+    ],
+    [
+      4.7e-05,
+      "                \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Cookie                \u001b[0;38;5;0;48;5;246m Stored cookies                           \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                          \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m curl                  \u001b[0;38;5;0;48;5;246m Preview curl command                     \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m -c                    \u001b[0;38;5;0;48;5;246m Shorthand for --continue                 \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Accept                \u001b[0;38;5;0;48;5;246m Acceptable response media type           \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Accept-Charset        \u001b[0;38;5;0;48;5;246m Acceptable response charsets             \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Accept-Encoding       \u001b[0;38;5;0;48;5;246m Acceptable response content codings      \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[25C\u001b[0;38;5;0;48;5;250m Accept-Language       \u001b[0;38;5;0;48;5;246m P"
+    ],
+    [
+      1.3e-05,
+      "referred natural languages in response  \u001b[0;48;5;102m \u001b[16A\u001b[66D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158835,
+      "\u001b[?25l\b\u001b[0;38;5;81mcd\u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m   "
+    ],
+    [
+      2.6e-05,
+      "                                                               \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[25C\u001b[0m                                                                  \u001b[16A\u001b[65D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00466,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                          \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Transfer-Encoding     \u001b[0;38;5;0;48;5;246m Transfer codings applied to payload body \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Accept-Encoding       \u001b[0;38;5;0;48;5;246m Acceptable response content codings      \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                          \u001b[0;48;5;238m \u001b[6A\u001b[66D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205509,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                  \u001b[6A\u001b[65D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004993,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m emojis        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m events        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m feeds         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m gists         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m gitignore     \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m issues        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m legacy        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m markdown      \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m meta          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m networks      \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m notifications \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;3"
+    ],
+    [
+      3.1e-05,
+      "8;5;0;48;5;250m orgs          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m rate_limit    \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m repos         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m repositories  \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m search        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[16A\u001b[26D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155898,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[0m\r\r\n\u001b[27C\u001b[0m                          \u001b[16A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003422,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m rate_limit   \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m repos        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m repositories \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m orgs         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m markdown     \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m search       \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m user         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m users        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m networks     \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m gitignore    \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[10A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.067158,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[0m\r\r\n\u001b[28C\u001b[0m                         \u001b[10A\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003372,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m repos        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m repositories \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m gitignore    \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m rate_limit   \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[4A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.237745,
+      "\u001b[?25l\u001b[0;38;5;186mp\u001b[0m\r\r\n\u001b[29C\u001b[0m                         \u001b[0m\r\r\n\u001b[29C\u001b[0m                         \u001b[0m\r\r\n\u001b[29C\u001b[0m                         \u001b[0m\r\r\n\u001b[29C\u001b[0m                         \u001b[4A\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002222,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;0;48;5;250m repos        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;0;48;5;250m repositories \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[2A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.085986,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\r\r\n\u001b[30C\u001b[0m                         \u001b[0m\r\r\n\u001b[30C\u001b[0m                         \u001b[2A\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003362,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m repos        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m repositories \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[2A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.170934,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\r\r\n\u001b[31C\u001b[0m                         \u001b[0m\r\r\n\u001b[31C\u001b[0m                         \u001b[2A\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002969,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m repos        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m repositories \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[2A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.963581,
+      "\u001b[?25l\u001b[32D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com> \u001b[0;38;5;81mcd\u001b[0;38;5;15m \u001b[0;38;5;186mrepos\u001b[32D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000156,
+      "\u001b[?2004l"
+    ],
+    [
+      0.017571,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001649,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007522,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[15A\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.37679,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ml\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.009711,
+      "\u001b[?25l\u001b[0;38;5;241ms\u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m ALPN                  \u001b[0;38;5;0;48;5;246m Application-layer protocol negotiation to use \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Alt-Used              \u001b[0;38;5;0;48;5;246m Alternative host in use                       \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m delete                \u001b[0;38;5;0;48;5;246m DELETE request                                \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m help                  \u001b[0;38;5;0;48;5;246m List commands, actions, and HTTPie options    \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m curl                  \u001b[0;38;5;0;48;5;246m Preview curl command                          \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m --follow              \u001b[0;38;5;0;48;5;246m Allow full redirects                          \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m --help                \u001b[0;38;5;0;48;5;246m Show tool (HTTPie, cURL) help message         \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2"
+    ],
+    [
+      2.3e-05,
+      "7C\u001b[0;38;5;0;48;5;250m --style               \u001b[0;38;5;0;48;5;246m Output coloring style                         \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m --download            \u001b[0;38;5;0;48;5;246m Download as a file                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Accept-Language       \u001b[0;38;5;0;48;5;246m Preferred natural languages in response       \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content                 \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained                    \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Cache-C"
+    ],
+    [
+      3.8e-05,
+      "ontrol         \u001b[0;38;5;0;48;5;246m Directives for caches                         \r\u001b[97C\u001b[0;48;5;102m \u001b[15A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.082405,
+      "\u001b[?25l\b\u001b[0;38;5;81mls\u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                         "
+    ],
+    [
+      2.3e-05,
+      "             \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[15A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002393,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m Alt-Used \u001b[0;38;5;0;48;5;246m Alternative host in use \u001b[0;48;5;238m \u001b[A\u001b[36D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174532,
+      "\u001b[?25l\u001b[32D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos> \u001b[0;38;5;81mls\u001b[32D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000165,
+      "\u001b[?2004l"
+    ],
+    [
+      0.010552,
+      "\u001b[?1h\u001b=\r\u001b[38;5;186m{owner}\u001b[39m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.013646,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001818,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006697,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[13A\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.567966,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006544,
+      "\u001b[?25l\u001b[0;38;5;241md repos\u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Connection            \u001b[0;38;5;0;48;5;246m Connection options                       \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                          \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content            \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained               \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Content-Type          \u001b[0;38;5;0;48;5;246m Conte"
+    ],
+    [
+      7.1e-05,
+      "nt media type                       \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Cookie                \u001b[0;38;5;0;48;5;246m Stored cookies                           \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                          \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m curl                  \u001b[0;38;5;0;48;5;246m Preview curl command                     \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m -c                    \u001b[0;38;5;0;48;5;246m Shorthand for --continue                 \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m Accept                \u001b[0;38;5;0;48;5;246m Acceptable response media type           \u001b[0;48;5;102m \u001b[13A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148366,
+      "\u001b[?25l\b\u001b[0;38;5;81mcd\u001b[0m      \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b[31C\u001b[0m                                                                  \u001b[0m\r\r\n\u001b["
+    ],
+    [
+      2.4e-05,
+      "31C\u001b[0m                                                                  \u001b[13A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004454,
+      "\u001b[?25l\u001b[0;38;5;241m repos\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                          \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m Transfer-Encoding     \u001b[0;38;5;0;48;5;246m Transfer codings applied to payload body \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag        \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m Accept-Encoding       \u001b[0;38;5;0;48;5;246m Acceptable response content codings      \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                          \r\u001b[97C\u001b[0;48;5;238m \u001b[6A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.233321,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m     \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[0m\r\r\n\u001b[32C\u001b[0m                                                                 \r\u001b[97C \u001b[6A\r\u001b[33C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002243,
+      "\u001b[?25l\u001b[0;38;5;241mrepos\u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m {owner} \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[A\u001b[20D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.317733,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m    \u001b[0m\r\r\n\u001b[33C\u001b[0m                    \u001b[A\u001b[19D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002161,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[34C\u001b[0;38;5;0;48;5;250m {owner} \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[A\u001b[20D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.229068,
+      "\u001b[?25l\u001b[0;38;5;186ml\u001b[0m\r\r\n\u001b[34C\u001b[0m                    \u001b[A\u001b[19D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001787,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.232579,
+      "\u001b[?25l\u001b[0;38;5;186mi\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001733,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099398,
+      "\u001b[?25l\u001b[0;38;5;186ma\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002313,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.136523,
+      "\u001b[?25l\u001b[0;38;5;186mn\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001767,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107199,
+      "\u001b[?25l\u001b[0;38;5;186mg\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001712,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.365056,
+      "\u001b[?25l\u001b[0;38;5;186mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002389,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.161005,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002651,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.523794,
+      "\u001b[?25l\u001b[0;38;5;186m/\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002593,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[42C\u001b[0;38;5;0;48;5;250m {repo} \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[A\u001b[19D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.318778,
+      "\u001b[?25l\u001b[0;38;5;186mh\u001b[0m\r\r\n\u001b[42C\u001b[0m                   \u001b[A\u001b[18D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00211,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.078233,
+      "\u001b[?25l\u001b[0;38;5;186mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001794,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157375,
+      "\u001b[?25l\u001b[0;38;5;186mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001874,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.103162,
+      "\u001b[?25l\u001b[0;38;5;186mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001727,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.252381,
+      "\u001b[?25l\u001b[0;38;5;186m-\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002308,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.235997,
+      "\u001b[?25l\u001b[0;38;5;186mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002193,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.086769,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001896,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117271,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002328,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.118616,
+      "\u001b[?25l\u001b[0;38;5;186mm\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002845,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102696,
+      "\u001b[?25l\u001b[0;38;5;186mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001843,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149072,
+      "\u001b[?25l\u001b[0;38;5;186mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002693,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501083,
+      "\u001b[?25l\u001b[0;38;5;186m/\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004818,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m assignees        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m branches         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m collaborators    \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m comments         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m commits          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m compare          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m contents         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m contributors     \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m deployments      \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m downloads        \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m events           \u001b[0;38;5;0;48;5;246m Endpoin"
+    ],
+    [
+      2.8e-05,
+      "t \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m forks            \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[54C\u001b[0;38;5;0;48;5;250m git              \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;102m \u001b[13A\u001b[29D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.499611,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[0m\r\r\n\u001b[54C\u001b[0m                             \u001b[13A\u001b[28D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004722,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m readme           \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m releases         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m branches         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m forks            \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m merges           \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m {archive_format} \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m stargazers       \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m contributors     \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m compare          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m subscribers      \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m subscription     \u001b[0;38;5;0;48;5;246m Endpoin"
+    ],
+    [
+      5.8e-05,
+      "t \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m watchers         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[55C\u001b[0;38;5;0;48;5;250m collaborators    \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[13A\u001b[29D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.039237,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[0m\r\r\n\u001b[55C\u001b[0m                             \u001b[13A\u001b[28D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003503,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m readme           \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m releases         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m compare          \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m merges           \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m subscribers      \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m stargazers       \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m branches         \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m {archive_format} \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[8A\u001b[29D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.16804,
+      "\u001b[?25l\u001b[0;38;5;186ml\u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[0m\r\r\n\u001b[56C\u001b[0m                             \u001b[8A\u001b[28D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002228,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[57C\u001b[0;38;5;0;48;5;250m releases \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[A\u001b[21D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117398,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\r\r\n\u001b[57C\u001b[0m                     \u001b[A\u001b[20D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002094,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[58C\u001b[0;38;5;0;48;5;250m releases \u001b[0;38;5;0;48;5;246m Endpoint \u001b[0;48;5;238m \u001b[A\u001b[21D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.415854,
+      "\u001b[?25l\u001b[0;38;5;186mases\u001b[0m\r\r\n\u001b[58C\u001b[0;38;5;15;48;5;102m releases \u001b[0;38;5;0;48;5;248m Endpoint \u001b[A\u001b[16D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.541784,
+      "\u001b[?25l\u001b[62D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos> \u001b[0;38;5;81mcd\u001b[0;38;5;15m \u001b[0;38;5;186meliangcs/http-prompt/releases\u001b[62D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00016,
+      "\u001b[?2004l"
+    ],
+    [
+      0.017275,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.002008,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[60C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006849,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[12A\u001b[60C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.566106,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mg\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007542,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m get                   \u001b[0;38;5;0;48;5;246m GET request                                  \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Upgrade               \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m --ignore-stdin        \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Origin                \u001b[0;38;5;0;48;5;246m Origin(s) issuing the request                \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Pragma                \u001b[0;38;5;0;48;5;246m Implementation-specific directives           \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Range                 \u001b[0;38;5;0;48;5;246m Request transfer of only part of data        \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m --debug               \u001b[0;38;5;0;48;5;246m Print debug information                      \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250"
+    ],
+    [
+      2.9e-05,
+      "m If-Range              \u001b[0;38;5;0;48;5;246m Request condition on Range                   \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m User-Agent            \u001b[0;38;5;0;48;5;246m User agent string                            \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Warning               \u001b[0;38;5;0;48;5;246m Possible incorrectness with payload body     \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Accept-Language       \u001b[0;38;5;0;48;5;246m Preferred natural languages in response      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content                \r\u001b[97C\u001b[0;48;5;102m \u001b[12A\r\u001b[61C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123672,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                            "
+    ],
+    [
+      4.5e-05,
+      "         \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[12A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004841,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m get              \u001b[0;38;5;0;48;5;246m GET request                                  \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Range            \u001b[0;38;5;0;48;5;246m Request transfer of only part of data        \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m If-Range         \u001b[0;38;5;0;48;5;246m Request condition on Range                   \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m User-Agent       \u001b[0;38;5;0;48;5;246m User agent string                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Upgrade          \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m --ignore-stdin   \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Accept-Language  \u001b[0;38;5;0;48;5;246m Preferred natural languages in response      \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Content-Language \u001b[0;38;5;0;48;5;"
+    ],
+    [
+      2.7e-05,
+      "246m Natural languages for content                \r\u001b[97C\u001b[0;48;5;238m \u001b[8A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.065208,
+      "\u001b[?25l\u001b[2D\u001b[0;38;5;81mget\u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[8A\r\u001b[63C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003672,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m get            \u001b[0;38;5;0;48;5;246m GET request       \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m User-Agent     \u001b[0;38;5;0;48;5;246m User agent string \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m --ignore-stdin \u001b[0;38;5;0;48;5;246m Do not read stdin \r\u001b[97C\u001b[0;48;5;238m \u001b[3A\r\u001b[63C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.201689,
+      "\u001b[?25l\u001b[63D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0;38;5;81mget\u001b[63D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000175,
+      "\u001b[?2004l"
+    ],
+    [
+      1.512443,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000132,
+      "\u001b[38;5;81mHTTP\u001b[39m\u001b[38;5;197m/\u001b[39m\u001b[38;5;141m1.1\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;141m200\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;148mOK\u001b[39m\u001b[m\r\n\u001b[38;5;148mAccess-Control-Allow-Origin\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m*\u001b[39m\u001b[m\r\n\u001b[38;5;148mAccess-Control-Expose-Headers\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining,\u001b[m \b\u001b[38;5;148m\u001b[39m\u001b[38;5;197m\u001b[39m\u001b[38;5;15m\u001b[39m\u001b[38;5;186m X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval\u001b[39m\u001b[m\r\n\u001b[38;5;148mCache-Control\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mpublic, max-age=60, s-maxage=60\u001b[39m\u001b[m\r\n\u001b[38;5;148mContent-Encoding\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mgzip\u001b[39m\u001b[m\r\n\u001b[38;5;148mContent-Security-Policy\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mdefault-src 'none'\u001b[39m\u001b[m\r\n\u001b[38;5;148mContent-Type\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mapplication/json; charset=utf-8\u001b[39m\u001b[m\r\n\u001b[38;5;148mDate\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m"
+    ],
+    [
+      2.4e-05,
+      "Sat, 1"
+    ],
+    [
+      0.000181,
+      "8 Mar 2017 04:25:47 GMT\u001b[39m\u001b[m\r\n\u001b[38;5;148mETag\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mW/\"b1e030e040e5813a48c23488f922b2a3\"\u001b[39m\u001b[m\r\n\u001b[38;5;148mServer\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mGitHub.com\u001b[39m\u001b[m\r\n\u001b[38;5;148mStatus\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m200 OK\u001b[39m\u001b[m\r\n\u001b[38;5;148mStrict-Transport-Security\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mmax-age=31536000; includeSubdomains; preload\u001b[39m\u001b[m\r\n\u001b[38;5;148mTransfer-Encoding\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mchunked\u001b[39m\u001b[m\r\n\u001b[38;5;148mVary\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mAccept\u001b[39m\u001b[m\r\n\u001b[38;5;148mVary\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mAccept-Encoding\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-Content-Type-Options\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mnosniff\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-Frame-Options\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mdeny\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-GitHub-Media-Type\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mgithub.v3; format=json\u001b[39m\u001b[m\r\n\u001b[38;5;148mX"
+    ],
+    [
+      2.5e-05,
+      "-GitHub-Re"
+    ],
+    [
+      0.000101,
+      "quest-Id\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mD160:5A78:5F8332:801FD8:58CCB6CB\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-RateLimit-Limit\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m60\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-RateLimit-Remaining\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m21\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-RateLimit-Reset\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m1489812015\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-Served-By\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186ma30e6f9aa7cf5731b87dfb3b9992202d\u001b[39m\u001b[m\r\n\u001b[38;5;148mX-XSS-Protection\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m1; mode=block\u001b[39m\u001b[m\r\n"
+    ],
+    [
+      3.8e-05,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.007615,
+      "\u001b[?1h\u001b=\r\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.03681,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.000185,
+      "\u001b[38;5;15m[\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"assets\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m[\u001b[39m\u001b[38;5;15m]\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"assets_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/repos/eliangcs/http-prompt/releases/5466815/assets\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"author\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"avatar_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://avatars3.githubusercontent.com/u/740461?v=3\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"events_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/events{/privacy}\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"followers_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/followers\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[3"
+    ],
+    [
+      9.4e-05,
+      "8;5;15m"
+    ],
+    [
+      0.00013,
+      "            \u001b[39m\u001b[38;5;197m\"following_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/following{/other_user}\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"gists_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/gists{/gist_id}\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"gravatar_id\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"html_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://github.com/eliangcs\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"id\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;141m740461\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"login\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"eliangcs\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"organizations_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eli"
+    ],
+    [
+      2.2e-05,
+      "angcs"
+    ],
+    [
+      0.00011,
+      "/orgs\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"received_events_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/received_events\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"repos_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/repos\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"site_admin\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;81mfalse\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"starred_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/starred{/owner}{/repo}\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"subscriptions_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs/subscriptions\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m            \u001b[39m\u001b[38;5;197m\"type\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"User\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m   "
+    ],
+    [
+      3e-05,
+      "      "
+    ],
+    [
+      0.000166,
+      "   \u001b[39m\u001b[38;5;197m\"url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/users/eliangcs\"\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"body\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"- Fix bug: Unable to escape separator in paramter name (#106)\\n- Fix bug: rm -b a\u001b[m \b\u001b[38;5;15m\u001b[39m\u001b[38;5;197m\u001b[39m\u001b[38;5;15m\u001b[39m\u001b[38;5;15m\u001b[39m\u001b[38;5;186mutocomplete for raw json paramters (29e0895)\\n- Fix bug: Cursor being reset to position 0 (#107)\\n\u001b[m \b\u001b[38;5;15m\u001b[39m\u001b[38;5;197m\u001b[39m\u001b[38;5;15m\u001b[39m\u001b[38;5;15m\u001b[39m\u001b[38;5;186m- Fix bug: UnboundLocalError on 'new_opts' (#110)\\n\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      2.478123,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"created_at\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"2017-02-15T16:06:23Z\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.150542,
+      "\r\u001b[K"
+    ],
+    [
+      2.5e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"draft\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;81mfalse\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.383525,
+      "\r\u001b[K"
+    ],
+    [
+      1.8e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"html_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://github.com/eliangcs/http-prompt/releases/tag/v0.9.2\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.176361,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"id\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;141m5466815\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.18445,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"name\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"v0.9.2\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.199828,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"prerelease\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;81mfalse\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.367531,
+      "\r\u001b[K"
+    ],
+    [
+      2.8e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"published_at\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"2017-02-15T16:11:54Z\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.447393,
+      "\r\u001b[K"
+    ],
+    [
+      2.3e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"tag_name\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"v0.9.2\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.304193,
+      "\r\u001b[K"
+    ],
+    [
+      2.7e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"tarball_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://api.github.com/repos/eliangcs/http-prompt/tarball/v0.9.2\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.58514,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"target_commitish\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"master\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.462638,
+      "\r\u001b[K"
+    ],
+    [
+      1.6e-05,
+      "\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"upload_url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"https://uploads.github.com/repos/eliangcs/http-prompt/releases/5466815/asse\u001b[m \b:\u001b[K"
+    ],
+    [
+      1.784189,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.007684,
+      "\u001b[?1h\u001b=\r\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.036642,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001954,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[60C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005873,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.326766,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mg\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004165,
+      "\u001b[?25l\u001b[0;38;5;241met\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m get                   \u001b[0;38;5;0;48;5;246m GET request                                  \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Upgrade               \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m --ignore-stdin        \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Origin                \u001b[0;38;5;0;48;5;246m Origin(s) issuing the request                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Pragma                \u001b[0;38;5;0;48;5;246m Implementation-specific directives           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m Range                 \u001b[0;38;5;0;48;5;246m Request transfer of only part of data        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m --debug               \u001b[0;38;5;0;48;5;246m Print debug information                      \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[61C\u001b[0m\u001b["
+    ],
+    [
+      2.5e-05,
+      "?12l\u001b[?25h"
+    ],
+    [
+      0.052568,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[0m\r\r\n\u001b[28C\u001b[0m                                                                     \r\u001b[97C \u001b[7A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004479,
+      "\u001b[?25l\u001b[0;38;5;241mt\u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m get              \u001b[0;38;5;0;48;5;246m GET request                                  \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Range            \u001b[0;38;5;0;48;5;246m Request transfer of only part of data        \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m If-Range         \u001b[0;38;5;0;48;5;246m Request condition on Range                   \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m User-Agent       \u001b[0;38;5;0;48;5;246m User agent string                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Upgrade          \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m --ignore-stdin   \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[33C\u001b[0;38;5;0;48;5;250m Accept-Language  \u001b[0;38;5;0;48;5;246m Preferred natural languages in response      \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.12339,
+      "\u001b[?25l\u001b[2D\u001b[0;38;5;81mget\u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[33C\u001b[0m                                                                \r\u001b[97C \u001b[7A\r\u001b[63C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002498,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m get            \u001b[0;38;5;0;48;5;246m GET request       \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m User-Agent     \u001b[0;38;5;0;48;5;246m User agent string \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[62C\u001b[0;38;5;0;48;5;250m --ignore-stdin \u001b[0;38;5;0;48;5;246m Do not read stdin \r\u001b[97C\u001b[0;48;5;238m \u001b[3A\r\u001b[63C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093263,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[62C\u001b[0m                                   \r\u001b[97C \u001b[0m\r\r\n\u001b[62C\u001b[0m                                   \r\u001b[97C \u001b[0m\r\r\n\u001b[62C\u001b[0m                                   \r\u001b[97C \u001b[3A\r\u001b[64C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006222,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[64C\u001b[0m\u001b[?"
+    ],
+    [
+      2.9e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.523582,
+      "\u001b[?25l\u001b[0;38;5;197m|\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[65C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00204,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.133955,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004743,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[66C\u001b[0m\u001b[?"
+    ],
+    [
+      2.7e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.642849,
+      "\u001b[?25l\u001b[0;38;5;15mj\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[67C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002254,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m -j     \u001b[0;38;5;0;48;5;246m Shorthand for --json            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[56C\u001b[0;38;5;0;48;5;250m --json \u001b[0;38;5;0;48;5;246m Send as a JSON object (default) \r\u001b[97C\u001b[0;48;5;238m \u001b[2A\r\u001b[67C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123909,
+      "\u001b[?25l\u001b[0;38;5;15mq\u001b[0m\r\r\n\u001b[56C\u001b[0m                                         \r\u001b[97C \u001b[0m\r\r\n\u001b[56C\u001b[0m                                         \r\u001b[97C \u001b[2A\r\u001b[68C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001772,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.044959,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004705,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[69C\u001b[0m\u001b[?"
+    ],
+    [
+      5.4e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.976886,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233m'\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[70C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001511,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.178579,
+      "\u001b[?25l\b\u001b[0;38;5;186m''\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001508,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.459877,
+      "\u001b[?25l\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.524406,
+      "\u001b[?25l\u001b[0;38;5;186m.'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001418,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.470435,
+      "\u001b[?25l\u001b[0;38;5;186m['\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002285,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.06842,
+      "\u001b[?25l\u001b[0;38;5;186m]'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001898,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.213045,
+      "\u001b[?25l\u001b[0;38;5;186m '\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004096,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[74C\u001b[0m\u001b[?"
+    ],
+    [
+      2.8e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.558572,
+      "\u001b[?25l\u001b[0;38;5;186m|'\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[75C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001487,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.501311,
+      "\u001b[?25l\u001b[0;38;5;186m '\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004463,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[76C\u001b[0m\u001b[?"
+    ],
+    [
+      4.7e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.835747,
+      "\u001b[?25l\u001b[0;38;5;186m{'\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[77C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001516,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.36643,
+      "\u001b[?25l\u001b[0;38;5;186mn'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002278,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109607,
+      "\u001b[?25l\u001b[0;38;5;186ma'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00157,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.087578,
+      "\u001b[?25l\u001b[0;38;5;186mm'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001472,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.10834,
+      "\u001b[?25l\u001b[0;38;5;186me'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001443,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.192364,
+      "\u001b[?25l\u001b[0;38;5;186m,'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002192,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194309,
+      "\u001b[?25l\u001b[0;38;5;186m '\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004889,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download                \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[83C\u001b[0m\u001b[?"
+    ],
+    [
+      2e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.72779,
+      "\u001b[?25l\u001b[0;38;5;186mp'\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[84C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004929,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Pragma                 \u001b[0;38;5;0;48;5;246m Implementation-specific directives            \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Prefer                 \u001b[0;38;5;0;48;5;246m Preferred server behaviors                    \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials               \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options                      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m -p                     \u001b[0;38;5;0;48;5;246m Shorthand for --print                         \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m Upgrade                \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol  \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[26C\u001b[0;38;5;0;48;5;250m --pretty               \u001b[0;38;5;0;48;5;246m Control output processing                     \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[84C\u001b[0m\u001b[?"
+    ],
+    [
+      3.8e-05,
+      "12l\u001b[?25h"
+    ],
+    [
+      0.098584,
+      "\u001b[?25l\u001b[0;38;5;186mu'\u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[0m\r\r\n\u001b[26C\u001b[0m                                                                       \r\u001b[97C \u001b[7A\r\u001b[85C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002426,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;0;48;5;250m --output            \u001b[0;38;5;0;48;5;246m Save output to a file                   \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;0;48;5;250m Proxy-Authorization \u001b[0;38;5;0;48;5;246m Proxy authorization credentials         \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;0;48;5;250m Accept-Language     \u001b[0;38;5;0;48;5;246m Preferred natural languages in response \r\u001b[97C\u001b[0;48;5;238m \u001b[3A\r\u001b[85C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084315,
+      "\u001b[?25l\u001b[0;38;5;186mb'\u001b[0m\r\r\n\u001b[35C\u001b[0m                                                              \r\u001b[97C \u001b[0m\r\r\n\u001b[35C\u001b[0m                                                              \r\u001b[97C \u001b[0m\r\r\n\u001b[35C\u001b[0m                                                              \r\u001b[97C \u001b[3A\r\u001b[86C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001416,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095225,
+      "\u001b[?25l\u001b[0;38;5;186ml'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002489,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.172583,
+      "\u001b[?25l\u001b[0;38;5;186mi'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001347,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157887,
+      "\u001b[?25l\u001b[0;38;5;186ms'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002219,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109982,
+      "\u001b[?25l\u001b[0;38;5;186mh'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002352,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179471,
+      "\u001b[?25l\u001b[0;38;5;186me'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002241,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206996,
+      "\u001b[?25l\u001b[0;38;5;186md'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001261,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.432002,
+      "\u001b[?25l\u001b[0;38;5;186m_'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002417,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206792,
+      "\u001b[?25l\u001b[0;38;5;186ma'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001408,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.204356,
+      "\u001b[?25l\u001b[0;38;5;186mt'\b\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00225,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.76476,
+      "\u001b[?25l\u001b[0;38;5;186m}'\r\u001b[96C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002127,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.75088,
+      "\u001b[?25l\u001b[96D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0;38;5;81mget\u001b[0;38;5;15m \u001b[0;38;5;197m|\u001b[0;38;5;15m jq \u001b[0;38;5;186m'.[] | {name, published_at}'\r\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000185,
+      "\u001b[?2004l"
+    ],
+    [
+      1.290436,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      3.8e-05,
+      "{\u001b[m\r\n  \"name\": \"v0.9.2\",\u001b[m\r\n  \"published_at\": \"2017-02-15T16:11:54Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.9.1\",\u001b[m\r\n  \"published_at\": \"2017-01-23T13:48:32Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.9.0\",\u001b[m\r\n  \"published_at\": \"2017-01-15T05:39:08Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.8.0\",\u001b[m\r\n  \"published_at\": \"2016-11-16T13:36:34Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.7.0\",\u001b[m\r\n  \"published_at\": \"2016-10-22T03:29:39Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.6.0\",\u001b[m\r\n  \"published_at\": \"2016-09-18T07:01:32Z\"\u001b[m\r\n}\u001b[m\r\n{\u001b[m\r\n  \"name\": \"v0.5.0\",\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.489854,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.016475,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.002042,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[60C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006539,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.632186,
+      "\u001b[?25l\u001b[0;38;5;81mget\u001b[0;38;5;15m \u001b[0;38;5;197m|\u001b[0;38;5;15m jq \u001b[0;38;5;186m'.[] | {name, published_at}'\r\u001b[97C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.123891,
+      "\u001b[?25l\r\u001b[97C\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006063,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                             \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used           \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                      \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate                \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL               \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                        \u001b[0;48;5;102m \u001b[6A\u001b[72D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.393371,
+      "\u001b[?25l\u001b[0;38;5;15m-\u001b[0m\r\r\n\u001b[0m                                                                        \u001b[0m\r\r\n\u001b[0m                                                                        \u001b[0m\r\r\n\u001b[0m                                                                        \u001b[0m\r\r\n\u001b[0m                                                                        \u001b[0m\r\r\n\u001b[0m                                                                        \u001b[0m\r\r\n\u001b[0m                                                                        \u001b[6A\u001b[71D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003901,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                            \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used          \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                     \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate               \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL              \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                       \u001b[0;48;5;102m \u001b[6A\u001b[71D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147358,
+      "\u001b[?25l\u001b[0;38;5;15m-\u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[C\u001b[0m                                                                       \u001b[6A\u001b[70D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004804,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                            \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used          \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body                     \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate               \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL              \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                       \u001b[0;48;5;102m \u001b[6A\u001b[71D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099832,
+      "\u001b[?25l\u001b[0;38;5;15mc\u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                                       \u001b[6A\u001b[70D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003927,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --cert                \u001b[0;38;5;0;48;5;246m Specify client SSL certificate         \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --cert-key            \u001b[0;38;5;0;48;5;246m The private key to use with SSL        \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --check-status        \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --continue            \u001b[0;38;5;0;48;5;246m Resume an interrupted download         \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --traceback           \u001b[0;38;5;0;48;5;246m Print exception traceback              \u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m If-None-Match         \u001b[0;38;5;0;48;5;246m Request condition on target resource   \u001b[0;48;5;102m \u001b[6A\u001b[64D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.13106,
+      "\u001b[?25l\u001b[0;38;5;15mo\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                                \u001b[6A\u001b[63D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002648,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[4C\u001b[0;38;5;0;48;5;250m --continue \u001b[0;38;5;0;48;5;246m Resume an interrupted download \u001b[0;48;5;238m \u001b[A\u001b[45D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174783,
+      "\u001b[?25l\u001b[0;38;5;15ml\u001b[0m\r\r\n\u001b[4C\u001b[0m                                             \u001b[A\u001b[44D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001342,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.197569,
+      "\u001b[?25l\u001b[0;38;5;15mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001714,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.15846,
+      "\u001b[?25l\u001b[0;38;5;15mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002172,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.205458,
+      "\u001b[?25l\u001b[0;38;5;15m-\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001503,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.224468,
+      "\u001b[?25l\u001b[0;38;5;15mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001759,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.179977,
+      "\u001b[?25l\u001b[0;38;5;15mu\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001439,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.109518,
+      "\u001b[?25l\u001b[0;38;5;15mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002425,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102629,
+      "\u001b[?25l\u001b[0;38;5;15mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00129,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.165936,
+      "\u001b[?25l\u001b[0;38;5;15mu\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001804,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167755,
+      "\u001b[?25l\u001b[0;38;5;15mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001283,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.220367,
+      "\u001b[?25l\u001b[A\u001b[14D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0;38;5;81mget\u001b[0;38;5;15m \u001b[0;38;5;197m|\u001b[0;38;5;15m jq \u001b[0;38;5;186m'.[] | {name, published_at}'\r\u001b[97C\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[0;38;5;15m--color-output\u001b[14D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000142,
+      "\u001b[?2004l"
+    ],
+    [
+      1.01909,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      9.1e-05,
+      "\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.9.2\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2017-02-15T16:11:54Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.9.1\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2017-01-23T13:48:32Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.9.0\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2017-01-15T05:39:08Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.8.0\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2016-11-16T13:36:34Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.7.0\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2016-10-22T03:29:39Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.6.0\"\u001b[0m\u001b[1;39m,\u001b[m\r\n  \u001b[0m\u001b["
+    ],
+    [
+      4.1e-05,
+      "34;1m\"published_at\"\u001b["
+    ],
+    [
+      2.7e-05,
+      "0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2016-09-18T07:01:32Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n\u001b[1;39m}\u001b[0m\u001b[m\r\n\u001b[1;39m{\u001b[m\r\n  \u001b[0m\u001b[34;1m\"name\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"v0.5.0\"\u001b[0m\u001b[1;39m,\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.754188,
+      "\r\u001b[K  \u001b[0m\u001b[34;1m\"published_at\"\u001b[0m\u001b[1;39m: \u001b[0m\u001b[0;32m\"2016-09-16T02:06:53Z\"\u001b[0m\u001b[1;39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.22446,
+      "\r\u001b[K\u001b[1;39m}\u001b[0m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.273488,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      0.240327,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.74281,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.018461,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.002153,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[60C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.007064,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.287674,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004869,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Expect                 \u001b[0;38;5;0;48;5;246m Expected behaviors supported by server       \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m env                    \u001b[0;38;5;0;48;5;246m Print environment                            \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m exec                   \u001b[0;38;5;0;48;5;246m Clear and load environment from a file       \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m exit                   \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt                             \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Depth                  \u001b[0;38;5;0;48;5;246m Applied only to resource or its members      \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m Referer                \u001b[0;38;5;0;48;5;246m Previous web page                            \r\u001b[97C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[27C\u001b[0;38;5;0;48;5;250m TE                     \u001b[0;38;5;0;48;5;246m Transfer codings willing to accept           \r\u001b[97C\u001b[0;48;5;102m \u001b[7A\r\u001b[61C\u001b[0m\u001b[?12l\u001b[?2"
+    ],
+    [
+      5e-05,
+      "5h"
+    ],
+    [
+      0.182127,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mx\u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[0m\r\r\n\u001b[27C\u001b[0m                                                                      \r\u001b[97C \u001b[7A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00345,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[49C\u001b[0;38;5;0;48;5;250m Expect \u001b[0;38;5;0;48;5;246m Expected behaviors supported by server \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[49C\u001b[0;38;5;0;48;5;250m exec   \u001b[0;38;5;0;48;5;246m Clear and load environment from a file \r\u001b[97C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[49C\u001b[0;38;5;0;48;5;250m exit   \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt                       \r\u001b[97C\u001b[0;48;5;238m \u001b[3A\r\u001b[62C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155808,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mi\u001b[0m\r\r\n\u001b[49C\u001b[0m                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[49C\u001b[0m                                                \r\u001b[97C \u001b[0m\r\r\n\u001b[49C\u001b[0m                                                \r\u001b[97C \u001b[3A\r\u001b[63C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001902,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[63C\u001b[0;38;5;0;48;5;250m exit  \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt \u001b[0;48;5;238m \u001b[A\u001b[26D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.17873,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;81mexit\u001b[0m\r\r\n\u001b[63C\u001b[0m                          \u001b[A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00126,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.70221,
+      "\u001b[?25l\u001b[64D\u001b[0m\u001b[J\u001b[0mhttps://api.github.com/repos/eliangcs/http-prompt/releases> \u001b[0;38;5;81mexit\u001b[64D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00017,
+      "\u001b[?2004l"
+    ],
+    [
+      0.002269,
+      "Goodbye!\r\n"
+    ],
+    [
+      0.046859,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                 \r \r"
+    ],
+    [
+      0.079657,
+      "\u001b]2;eliang@eliang: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.017535,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~ ➤ \u001b[00m\u001b[K\u001b[93C\u001b[33m\u001b[00m\u001b[93D"
+    ],
+    [
+      0.000141,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.537696,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ],
+  "version": 1,
+  "duration": 65.916404,
+  "command": null,
+  "width": 98,
+  "env": {
+    "SHELL": "/usr/local/bin/zsh",
+    "TERM": "xterm-256color"
+  }
+}

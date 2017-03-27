@@ -1,0 +1,41 @@
+---
+layout: default
+current_nav: early-access
+title: HTTP Prompt - Signing up for Early Access
+---
+
+<div class="container article">
+
+<h1>Signing up for Early Access</h1>
+
+{% if jekyll.environment == "production" %}
+  {% include checkout_form_prod.html %}
+{% else %}
+  {% include checkout_form_dev.html %}
+{% endif %}
+
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="term-alert" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div>You must agree to the terms to continue.</div>
+        <div style="text-align:right;">
+          <a href="#" data-dismiss="modal">Got it!</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function checkForm(form) {
+  if ($('#agree').prop('checked')) {
+    return true;
+  }
+  $('#term-alert').modal('show');
+  return false;
+}
+</script>

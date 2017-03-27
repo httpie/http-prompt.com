@@ -1,0 +1,1266 @@
+{
+  "version": 1,
+  "title": null,
+  "width": 65,
+  "height": 16,
+  "command": null,
+  "env": {
+    "SHELL": "/usr/local/bin/zsh",
+    "TERM": "xterm-256color"
+  },
+  "duration": 55.856271,
+  "stdout": [
+    [
+      0.681217,
+      "\u001b]4;0;rgb:1d/1f/21\u001b\\\u001b]4;1;rgb:cc/66/66\u001b\\\u001b]4;2;rgb:b5/bd/68\u001b\\\u001b]4;3;rgb:f0/c6/74\u001b\\\u001b]4;4;rgb:81/a2/be\u001b\\"
+    ],
+    [
+      0.000122,
+      "\u001b]4;5;rgb:b2/94/bb\u001b\\\u001b]4;6;rgb:8a/be/b7\u001b\\\u001b]4;7;rgb:c5/c8/c6\u001b\\\u001b]4;8;rgb:96/98/96\u001b\\\u001b]4;9;rgb:cc/66/66\u001b\\\u001b]4;10;rgb:b5/bd/68\u001b\\\u001b]4;11;rgb:f0/c6/74\u001b\\\u001b]4;12;rgb:81/a2/be\u001b\\\u001b]4;13;rgb:b2/94/bb\u001b\\\u001b]4;14;rgb:8a/be/b7\u001b\\\u001b]4;15;rgb:ff/ff/ff\u001b\\\u001b]4;16;rgb:de/93/5f\u001b\\\u001b]4;17;rgb:a3/68/5a\u001b\\\u001b]4;18;rgb:28/2a/2e\u001b\\\u001b]4;19;rgb:37/3b/41\u001b\\\u001b]4;20;rgb:b4/b7/b4\u001b\\\u001b]4;21;rgb:e0/e0/e0\u001b\\"
+    ],
+    [
+      0.000248,
+      "\u001b]Pgc5c8c6\u001b\\\u001b]Ph1d1f21\u001b\\\u001b]Pic5c8c6\u001b\\\u001b]Pj373b41\u001b\\\u001b]Pkc5c8c6\u001b\\\u001b]Plc5c8c6\u001b\\\u001b]Pm1d1f21\u001b\\"
+    ],
+    [
+      2.266924,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                \r \r"
+    ],
+    [
+      0.1039,
+      "\u001b]2;eliang@eliang: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.015969,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~ ➤ \u001b[00m\u001b[K\u001b[60C\u001b[33m\u001b[00m\u001b[60D"
+    ],
+    [
+      0.000136,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      2.5e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      0.560358,
+      "\u001b[1m\u001b[31mh\u001b[0m\u001b[39m"
+    ],
+    [
+      0.087961,
+      "\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.134591,
+      "\b\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[1m\u001b[31mt\u001b[0m\u001b[39m"
+    ],
+    [
+      0.130015,
+      "\b\b\b\u001b[0m\u001b[32mh\u001b[0m\u001b[32mt\u001b[0m\u001b[32mt\u001b[32mp\u001b[39m"
+    ],
+    [
+      0.222454,
+      "\b\b\b\b\u001b[1m\u001b[31mh\u001b[1m\u001b[31mt\u001b[1m\u001b[31mt\u001b[1m\u001b[31mp\u001b[1m\u001b[31m-\u001b[0m\u001b[39m"
+    ],
+    [
+      0.233139,
+      "\b\u001b[1m\u001b[31m-\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.086633,
+      "\b\u001b[1m\u001b[31mp\u001b[1m\u001b[31mr\u001b[0m\u001b[39m"
+    ],
+    [
+      0.114166,
+      "\b\u001b[1m\u001b[31mr\u001b[1m\u001b[31mo\u001b[0m\u001b[39m"
+    ],
+    [
+      0.094879,
+      "\b\u001b[1m\u001b[31mo\u001b[1m\u001b[31mm\u001b[0m\u001b[39m"
+    ],
+    [
+      0.128656,
+      "\b\u001b[1m\u001b[31mm\u001b[1m\u001b[31mp\u001b[0m\u001b[39m"
+    ],
+    [
+      0.183184,
+      "\u001b[10D\u001b[0m\u001b[32mh\u001b[0m\u001b[32mt\u001b[0m\u001b[32mt\u001b[0m\u001b[32mp\u001b[0m\u001b[32m-\u001b[0m\u001b[32mp\u001b[0m\u001b[32mr\u001b[0m\u001b[32mo\u001b[0m\u001b[32mm\u001b[0m\u001b[32mp\u001b[32mt\u001b[39m"
+    ],
+    [
+      0.13667,
+      " "
+    ],
+    [
+      0.16857,
+      "h"
+    ],
+    [
+      0.087498,
+      "t"
+    ],
+    [
+      0.152904,
+      "t"
+    ],
+    [
+      0.151741,
+      "p"
+    ],
+    [
+      0.14229,
+      "b"
+    ],
+    [
+      0.10614,
+      "i"
+    ],
+    [
+      0.133196,
+      "n"
+    ],
+    [
+      0.144974,
+      "."
+    ],
+    [
+      0.224208,
+      "o"
+    ],
+    [
+      0.087133,
+      "r"
+    ],
+    [
+      0.201785,
+      "g"
+    ],
+    [
+      0.231016,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      2.1e-05,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.000875,
+      "\u001b]2;http-prompt httpbin.org\u0007\u001b]1;http-prompt\u0007"
+    ],
+    [
+      0.451416,
+      "Version: 0.8.0\r\n"
+    ],
+    [
+      0.026571,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.00163,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[20C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002016,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[10A\u001b[20C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.48683,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.008113,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Connection            \u001b[0;38;5;0;48;5;246m Connection options                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content           \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained              \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Type          \u001b[0;38;5;0;48;5;246m Content media type            "
+    ],
+    [
+      8.9e-05,
+      "          \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Cookie                \u001b[0;38;5;0;48;5;246m Stored cookies                          \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                         \r\u001b[64C\u001b[0;48;5;102m \u001b[10A\r\u001b[21C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176307,
+      "\u001b[?25l\b\u001b[0;38;5;81mcd\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[10A\r\u001b[22C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003951,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m cd                    \u001b[0;38;5;0;48;5;246m Change URL/path                         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Transfer-Encoding     \u001b[0;38;5;0;48;5;246m Transfer codings applied to payload ... \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Accept-Encoding       \u001b[0;38;5;0;48;5;246m Acceptable response content codings     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                         \r\u001b[64C\u001b[0;48;5;238m \u001b[6A\r\u001b[22C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.100809,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[6A\r\u001b[23C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001342,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.203795,
+      "\u001b[?25l\u001b[0;38;5;186mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001561,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.13411,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001841,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.102029,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001418,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.12704,
+      "\u001b[?25l\u001b[0;38;5;186mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001762,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.540133,
+      "\u001b[?25l\u001b[27D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org> \u001b[0;38;5;81mcd\u001b[0;38;5;15m \u001b[0;38;5;186mpost\u001b[27D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000127,
+      "\u001b[?2004l"
+    ],
+    [
+      0.013046,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.00148,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001949,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[9A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.6491,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mA\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006873,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m ALPN                  \u001b[0;38;5;0;48;5;246m Application-layer protocol negotiati... \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Accept                \u001b[0;38;5;0;48;5;246m Acceptable response media type          \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Accept-Charset        \u001b[0;38;5;0;48;5;246m Acceptable response charsets            \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Accept-Encoding       \u001b[0;38;5;0;48;5;246m Acceptable response content codings     \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Accept-Language       \u001b[0;38;5;0;48;5;246m Preferred natural languages in response \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Alt-Used              \u001b[0;38;5;0;48;5;246m Alternative host in use                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Authorization         \u001b[0;38;5;0;48;5;246m Authentication information              \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m -a                    \u001b[0;38;5;0;48;5;246m Shorthand for --auth          "
+    ],
+    [
+      4.4e-05,
+      "          \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                   \r\u001b[64C\u001b[0;48;5;102m \u001b[9A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.1797,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mu\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[9A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004029,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Authorization       \u001b[0;38;5;0;48;5;246m Authentication information              \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --auth              \u001b[0;38;5;0;48;5;246m Do authentication                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --auth-type         \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m WWW-Authenticate    \u001b[0;38;5;0;48;5;246m Authentication scheme                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Proxy-Authorization \u001b[0;38;5;0;48;5;246m Proxy authorization credentials         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --check-status      \u001b[0;38;5;0;48;5;246m Check HTTP status code                  \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Content-Language    \u001b[0;38;5;0;48;5;246m Natural languages for content           \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Alt-Used            \u001b[0;38;5;0;48;5;246m Alternative ho"
+    ],
+    [
+      5.4e-05,
+      "st in use                 \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Accept-Language     \u001b[0;38;5;0;48;5;246m Preferred natural languages in response \r\u001b[64C\u001b[0;48;5;238m \u001b[9A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131789,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mt\u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[9A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003661,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;0;48;5;250m Authorization       \u001b[0;38;5;0;48;5;246m Authentication information          \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;0;48;5;250m --auth              \u001b[0;38;5;0;48;5;246m Do authentication                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;0;48;5;250m --auth-type         \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;0;48;5;250m WWW-Authenticate    \u001b[0;38;5;0;48;5;246m Authentication scheme               \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;0;48;5;250m Proxy-Authorization \u001b[0;38;5;0;48;5;246m Proxy authorization credentials     \r\u001b[64C\u001b[0;48;5;238m \u001b[5A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.38072,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mhorization\u001b[0m\r\r\n\u001b[6C\u001b[0;38;5;15;48;5;102m Authorization       \u001b[0;38;5;0;48;5;248m Authentication information          \u001b[A\r\u001b[38C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.318446,
+      "\u001b[?25l\u001b[13D\u001b[0;38;5;15mAuthorization\u001b[0;38;5;197m:\u001b[0m\r\r\n\u001b[6C\u001b[0m                                                          \r\u001b[64C \u001b[0m\r\r\n\u001b[6C\u001b[0m                                                          \r\u001b[64C \u001b[0m\r\r\n\u001b[6C\u001b[0m                                                          \r\u001b[64C \u001b[0m\r\r\n\u001b[6C\u001b[0m                                                          \r\u001b[64C \u001b[0m\r\r\n\u001b[6C\u001b[0m                                                          \r\u001b[64C \u001b[5A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001329,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.134071,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233m'\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001381,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.294313,
+      "\u001b[?25l\b\u001b[0;38;5;15m'\u001b[0;38;5;186mB\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002442,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173053,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001363,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.272044,
+      "\u001b[?25l\u001b[0;38;5;186ma\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001669,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.132886,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002262,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.2209,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002167,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.189886,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002564,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.359256,
+      "\u001b[?25l\u001b[0;38;5;186m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001434,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.349964,
+      "\u001b[?25l\u001b[0;38;5;186ma\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001839,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.357493,
+      "\u001b[?25l\u001b[0;38;5;186mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00166,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141477,
+      "\u001b[?25l\u001b[0;38;5;186mc\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001638,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.223438,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001608,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166481,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001994,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.158005,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001447,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.301649,
+      "\u001b[?25l\u001b[0;38;5;186mt\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001305,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.120686,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001631,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157807,
+      "\u001b[?25l\u001b[0;38;5;186mk\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001842,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.117849,
+      "\u001b[?25l\u001b[0;38;5;186me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001517,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101718,
+      "\u001b[?25l\u001b[0;38;5;186mn\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001471,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.174847,
+      "\u001b[?25l\u001b[0;38;5;15m'\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00161,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.653763,
+      "\u001b[?25l\u001b[59D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;15mAuthorization\u001b[0;38;5;197m:\u001b[0;38;5;15m'\u001b[0;38;5;186mBearer accesstoken\u001b[0;38;5;15m'\u001b[59D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00018,
+      "\u001b[?2004l"
+    ],
+    [
+      0.015216,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.00147,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001793,
+      "\u001b[?25l\u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[8A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.349232,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mC\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005425,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Cache-Control         \u001b[0;38;5;0;48;5;246m Directives for caches                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Connection            \u001b[0;38;5;0;48;5;246m Connection options                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Encoding      \u001b[0;38;5;0;48;5;246m Content codings                         \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Language      \u001b[0;38;5;0;48;5;246m Natural languages for content           \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Length        \u001b[0;38;5;0;48;5;246m Anticipated size for payload body       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Location      \u001b[0;38;5;0;48;5;246m Where content was obtained              \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-MD5           \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Content-Type          \u001b[0;38;5;0;48;5;246m Content media type            "
+    ],
+    [
+      3.6e-05,
+      "          \r\u001b[64C\u001b[0;48;5;102m \u001b[8A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134312,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mo\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[8A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004431,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Connection        \u001b[0;38;5;0;48;5;246m Connection options                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Encoding  \u001b[0;38;5;0;48;5;246m Content codings                          \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Language  \u001b[0;38;5;0;48;5;246m Natural languages for content            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Length    \u001b[0;38;5;0;48;5;246m Anticipated size for payload body        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Location  \u001b[0;38;5;0;48;5;246m Where content was obtained               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-MD5       \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Type      \u001b[0;38;5;0;48;5;246m Content media type                       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Cookie            \u001b[0;38;5;0;48;5;246m Stored cookies         "
+    ],
+    [
+      5.6e-05,
+      "                  \r\u001b[64C\u001b[0;48;5;102m \u001b[8A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.106814,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mn\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[8A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003582,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Connection        \u001b[0;38;5;0;48;5;246m Connection options                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Encoding  \u001b[0;38;5;0;48;5;246m Content codings                          \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Language  \u001b[0;38;5;0;48;5;246m Natural languages for content            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Length    \u001b[0;38;5;0;48;5;246m Anticipated size for payload body        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Location  \u001b[0;38;5;0;48;5;246m Where content was obtained               \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-MD5       \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Content-Type      \u001b[0;38;5;0;48;5;246m Content media type                       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --continue        \u001b[0;38;5;0;48;5;246m Resume an interrupted d"
+    ],
+    [
+      3.6e-05,
+      "ownload           \r\u001b[64C\u001b[0;48;5;102m \u001b[8A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.347102,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mT\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[8A\r\u001b[29C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003606,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-Encoding \u001b[0;38;5;0;48;5;246m Content codings                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-Language \u001b[0;38;5;0;48;5;246m Natural languages for content     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-Length   \u001b[0;38;5;0;48;5;246m Anticipated size for payload body \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-Location \u001b[0;38;5;0;48;5;246m Where content was obtained        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-MD5      \u001b[0;38;5;0;48;5;246m Base64-encoded MD5 sum of content \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Content-Type     \u001b[0;38;5;0;48;5;246m Content media type                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m --continue       \u001b[0;38;5;0;48;5;246m Resume an interrupted download    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[11C\u001b[0;38;5;0;48;5;250m Connection       \u001b[0;38;5;0;48;5;246m Connection options                \r\u001b[64C\u001b[0;48;5;102m \u001b[8A\r\u001b[29C\u001b[0m\u001b[?1"
+    ],
+    [
+      4.3e-05,
+      "2l\u001b[?25h"
+    ],
+    [
+      0.24463,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233my\u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[0m\r\r\n\u001b[11C\u001b[0m                                                     \r\u001b[64C \u001b[8A\r\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001681,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;0;48;5;250m Content-Type \u001b[0;38;5;0;48;5;246m Content media type \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.086183,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mp\u001b[0m\r\r\n\u001b[30C\u001b[0m                                  \r\u001b[64C \u001b[A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002714,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;0;48;5;250m Content-Type \u001b[0;38;5;0;48;5;246m Content media type \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.364882,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;89;48;5;233mtent-Type\u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;15;48;5;102m Content-Type \u001b[0;38;5;0;48;5;248m Content media type \u001b[A\r\u001b[37C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.368195,
+      "\u001b[?25l\u001b[12D\u001b[0;38;5;15mContent-Type\u001b[0;38;5;197m:\u001b[0m\r\r\n\u001b[30C\u001b[0m                                  \r\u001b[64C \u001b[A\r\u001b[38C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002874,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[15C\u001b[0;38;5;0;48;5;250m application/json                  \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[15C\u001b[0;38;5;0;48;5;250m application/x-www-form-urlencoded \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[15C\u001b[0;38;5;0;48;5;250m multipart/form-data               \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[15C\u001b[0;38;5;0;48;5;250m text/html                         \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[4A\r\u001b[38C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.276752,
+      "\u001b[?25l\u001b[0;38;5;186mj\u001b[0m\r\r\n\u001b[15C\u001b[0m                                                 \r\u001b[64C \u001b[0m\r\r\n\u001b[15C\u001b[0m                                                 \r\u001b[64C \u001b[0m\r\r\n\u001b[15C\u001b[0m                                                 \r\u001b[64C \u001b[0m\r\r\n\u001b[15C\u001b[0m                                                 \r\u001b[64C \u001b[4A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002232,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m application/json \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076598,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\r\r\n\u001b[32C\u001b[0m                                \r\u001b[64C \u001b[A\r\u001b[40C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002231,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m application/json \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[40C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.191445,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\r\r\n\u001b[32C\u001b[0m                                \r\u001b[64C \u001b[A\r\u001b[41C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002078,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;0;48;5;250m application/json \u001b[0;38;5;0;48;5;246m Content-Type \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[41C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.23747,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;186mapplication/json\u001b[0m\r\r\n\u001b[32C\u001b[0;38;5;15;48;5;102m application/json \u001b[0;38;5;0;48;5;248m Content-Type \u001b[A\r\u001b[54C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.342039,
+      "\u001b[?25l\u001b[54D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;15mContent-Type\u001b[0;38;5;197m:\u001b[0;38;5;186mapplication/json\u001b[54D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000158,
+      "\u001b[?2004l"
+    ],
+    [
+      0.012277,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001407,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001673,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.2339,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mu\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004612,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Upgrade               \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another ... \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m User-Agent            \u001b[0;38;5;0;48;5;246m User agent string                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Authorization         \u001b[0;38;5;0;48;5;246m Authentication information (=Bearer ... \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m curl                  \u001b[0;38;5;0;48;5;246m Preview curl command                    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m put                   \u001b[0;38;5;0;48;5;246m PUT request                             \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m source                \u001b[0;38;5;0;48;5;246m Load environment from a file            \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                \u001b[0;38;5;0;48;5;246m Do authentication                       \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.052373,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ms\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003124,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m User-Agent          \u001b[0;38;5;0;48;5;246m User agent string                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Alt-Used            \u001b[0;38;5;0;48;5;246m Alternative host in use                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --check-status      \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Requested-With    \u001b[0;38;5;0;48;5;246m Used to identify Ajax requests         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m If-Unmodified-Since \u001b[0;38;5;0;48;5;246m Request condition on modification date \r\u001b[64C\u001b[0;48;5;238m \u001b[5A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.077658,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[5A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002722,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m User-Agent          \u001b[0;38;5;0;48;5;246m User agent string                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Alt-Used            \u001b[0;38;5;0;48;5;246m Alternative host in use                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Requested-With    \u001b[0;38;5;0;48;5;246m Used to identify Ajax requests         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m If-Unmodified-Since \u001b[0;38;5;0;48;5;246m Request condition on modification date \r\u001b[64C\u001b[0;48;5;238m \u001b[4A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.067618,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mr\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[4A\r\u001b[29C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002492,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m User-Agent \u001b[0;38;5;0;48;5;246m User agent string \u001b[0;48;5;238m \u001b[A\u001b[32D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.09271,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mn\u001b[0m\r\r\n\u001b[29C\u001b[0m                                \u001b[A\u001b[31D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00226,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[30C\u001b[0;38;5;0;48;5;250m User-Agent \u001b[0;38;5;0;48;5;246m User agent string \u001b[0;48;5;238m \u001b[A\u001b[32D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.149676,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ma\u001b[0m\r\r\n\u001b[30C\u001b[0m                                \u001b[A\u001b[31D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001062,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.046536,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mm\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001863,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.168181,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001534,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.357468,
+      "\u001b[?25l\u001b[8D\u001b[0;38;5;15musername\u001b[0;38;5;197m=\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001167,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.416207,
+      "\u001b[?25l\u001b[0;38;5;186mf\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002037,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.123516,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002081,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134489,
+      "\u001b[?25l\u001b[0;38;5;186mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001353,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.128095,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001284,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.309563,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001349,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.09472,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ma\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001672,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.141009,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001538,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.143531,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ms\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001522,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.16679,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mw\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001528,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157283,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mo\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001203,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.095884,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00165,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157961,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233md\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001168,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166075,
+      "\u001b[?25l\u001b[8D\u001b[0;38;5;15mpassword\u001b[0;38;5;197m=\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001175,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.167433,
+      "\u001b[?25l\u001b[0;38;5;186mb\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001366,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.159732,
+      "\u001b[?25l\u001b[0;38;5;186ma\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001595,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.181143,
+      "\u001b[?25l\u001b[0;38;5;186mr\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001596,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.533554,
+      "\u001b[?25l\u001b[50D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;15musername\u001b[0;38;5;197m=\u001b[0;38;5;186mfoo\u001b[0;38;5;15m \u001b[0;38;5;15mpassword\u001b[0;38;5;197m=\u001b[0;38;5;186mbar\u001b[50D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000141,
+      "\u001b[?2004l"
+    ],
+    [
+      0.017289,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001727,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002067,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.027199,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mh\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004034,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m HTTP2-Settings         \u001b[0;38;5;0;48;5;246m HTTP/2 connection parameters           \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Host                   \u001b[0;38;5;0;48;5;246m Target URI                             \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m head                   \u001b[0;38;5;0;48;5;246m HEAD request                           \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m help                   \u001b[0;38;5;0;48;5;246m List commands, actions, and HTTPie ... \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m httpie                 \u001b[0;38;5;0;48;5;246m Preview HTTPie command                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m -h                     \u001b[0;38;5;0;48;5;246m Shorthand for --headers                \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --headers              \u001b[0;38;5;0;48;5;246m Print only response headers            \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.104284,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mt\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003746,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m HTTP2-Settings         \u001b[0;38;5;0;48;5;246m HTTP/2 connection parameters           \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m httpie                 \u001b[0;38;5;0;48;5;246m Preview HTTPie command                 \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m X-Http-Method-Override \u001b[0;38;5;0;48;5;246m Request method override                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used    \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Host                   \u001b[0;38;5;0;48;5;246m Target URI                             \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m WWW-Authenticate       \u001b[0;38;5;0;48;5;246m Authentication scheme                  \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m X-Forwarded-Host       \u001b[0;38;5;0;48;5;246m Original host requested by client      \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.147536,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mt\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003317,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m HTTP2-Settings         \u001b[0;38;5;0;48;5;246m HTTP/2 connection parameters      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m httpie                 \u001b[0;38;5;0;48;5;246m Preview HTTPie command            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m X-Http-Method-Override \u001b[0;38;5;0;48;5;246m Request method override           \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m WWW-Authenticate       \u001b[0;38;5;0;48;5;246m Authentication scheme             \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m If-Schedule-Tag-Match  \u001b[0;38;5;0;48;5;246m Request condition on Schedule-Tag \r\u001b[64C\u001b[0;48;5;238m \u001b[6A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.37843,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;89;48;5;233mHTTP2-Settings\u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;15;48;5;102m HTTP2-Settings         \u001b[0;38;5;0;48;5;248m HTTP/2 connection parameters      \u001b[A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.487818,
+      "\u001b[?25l\u001b[14D\u001b[0;38;5;81mhttpie\u001b[0m        \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;0;48;5;250m HTTP2-Settings         \u001b[0;38;5;0;48;5;246m HTTP/2 connection parameters      \u001b[0m\r\r\n\u001b[5C\u001b[0;38;5;15;48;5;102m httpie                 \u001b[0;38;5;0;48;5;248m Preview HTTPie command            \u001b[2A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.258599,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[0m\r\r\n\u001b[5C\u001b[0m                                                           \r\u001b[64C \u001b[6A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.006431,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                      \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate         \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download         \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.656212,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mp\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[33C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004181,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Pragma                 \u001b[0;38;5;0;48;5;246m Implementation-specific directives     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Prefer                 \u001b[0;38;5;0;48;5;246m Preferred server behaviors             \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)                  \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m patch                  \u001b[0;38;5;0;48;5;246m GET request                            \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                           \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[33C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.140215,
+      "\u001b[?25l\b\u001b[0;38;5;186mpo\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[34C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003738,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --proxy                \u001b[0;38;5;0;48;5;246m Specify proxy URL                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Forwarded-Proto      \u001b[0;38;5;0;48;5;246m Originating protocol                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m options                \u001b[0;38;5;0;48;5;246m OPTIONS request                     \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)               \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[34C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.155364,
+      "\u001b[?25l\u001b[0;38;5;186ms\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[7A\r\u001b[35C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002269,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;0;48;5;250m post    \u001b[0;38;5;0;48;5;246m POST request    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;0;48;5;250m options \u001b[0;38;5;0;48;5;246m OPTIONS request \u001b[0;48;5;238m \u001b[2A\u001b[27D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.323855,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;81mpost\u001b[0m\r\r\n\u001b[35C\u001b[0;38;5;15;48;5;102m post    \u001b[0;38;5;0;48;5;248m POST request    \u001b[A\u001b[25D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.329361,
+      "\u001b[?25l\u001b[36D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;81mhttpie\u001b[0;38;5;15m \u001b[0;38;5;81mpost\u001b[36D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000178,
+      "\u001b[?2004l"
+    ],
+    [
+      0.008268,
+      "\u001b[?1h\u001b=\rhttp POST http://httpbin.org/post password=bar username=foo 'Auth\u001b[m \borization:Bearer accesstoken' Content-Type:application/json\u001b[m\r\n"
+    ],
+    [
+      3.6e-05,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.015886,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001737,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002055,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.947035,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004582,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Pragma                 \u001b[0;38;5;0;48;5;246m Implementation-specific directives     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Prefer                 \u001b[0;38;5;0;48;5;246m Preferred server behaviors             \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)                  \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m patch                  \u001b[0;38;5;0;48;5;246m GET request                            \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                           \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.300644,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mo\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004098,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --proxy                \u001b[0;38;5;0;48;5;246m Specify proxy URL                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Forwarded-Proto      \u001b[0;38;5;0;48;5;246m Originating protocol                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m options                \u001b[0;38;5;0;48;5;246m OPTIONS request                     \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)               \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.62097,
+      "\u001b[?25l\u001b[2D\u001b[0;38;5;81mpost\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;15;48;5;102m post                   \u001b[0;38;5;0;48;5;248m POST request                        \u001b[A\r\u001b[29C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.021077,
+      "\u001b[?25l\u001b[29D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;81mpost\u001b[29D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000144,
+      "\u001b[?2004l"
+    ],
+    [
+      1.340207,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      9e-05,
+      "\u001b[38;5;81mHTTP\u001b[39m\u001b[38;5;197m/\u001b[39m\u001b[38;5;141m1.1\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;141m200\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;148mOK\u001b[39m\u001b[m\r\n\u001b[38;5;148mAccess-Control-Allow-Credentials\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mtrue\u001b[39m\u001b[m\r\n\u001b[38;5;148mAccess-Control-Allow-Origin\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m*\u001b[39m\u001b[m\r\n\u001b[38;5;148mConnection\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mkeep-alive\u001b[39m\u001b[m\r\n\u001b[38;5;148mContent-Length\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m518\u001b[39m\u001b[m\r\n\u001b[38;5;148mContent-Type\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mapplication/json\u001b[39m\u001b[m\r\n\u001b[38;5;148mDate\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mMon, 19 Dec 2016 14:33:24 GMT\u001b[39m\u001b[m\r\n\u001b[38;5;148mServer\u001b[39m\u001b[38;5;197m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186mnginx\u001b[39m\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.007089,
+      "\u001b[?1h\u001b=\r\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.015067,
+      "\u001b[?1h\u001b=\r"
+    ],
+    [
+      0.0001,
+      "\u001b[38;5;15m{\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"args\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"data\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"{\\\"password\\\": \\\"bar\\\", \\\"username\\\": \\\"foo\\\"}\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"files\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"form\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"headers\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Accept\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"application/json, */*\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Accept-Encoding\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"gzip, deflate\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Authorization\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38"
+    ],
+    [
+      6.3e-05,
+      ";5;186m"
+    ],
+    [
+      0.000101,
+      "\"Bearer accesstoken\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Content-Length\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"38\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Content-Type\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"application/json\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"Host\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"httpbin.org\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"User-Agent\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"HTTPie/0.9.9\"\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"json\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;15m{\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      1.218359,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"password\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"bar\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.632019,
+      "\r\u001b[K\u001b[38;5;15m        \u001b[39m\u001b[38;5;197m\"username\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"foo\"\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.600255,
+      "\r\u001b[K\u001b[38;5;15m    \u001b[39m\u001b[38;5;15m}\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.527529,
+      "\r\u001b[K\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"origin\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"173.193.203.19\"\u001b[39m\u001b[38;5;15m,\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.519858,
+      "\r\u001b[K"
+    ],
+    [
+      2e-05,
+      "\u001b[38;5;15m    \u001b[39m\u001b[38;5;197m\"url\"\u001b[39m\u001b[38;5;15m:\u001b[39m\u001b[38;5;15m \u001b[39m\u001b[38;5;186m\"http://httpbin.org/post\"\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.560131,
+      "\r\u001b[K\u001b[38;5;15m}\u001b[39m\u001b[m\r\n:\u001b[K"
+    ],
+    [
+      0.624997,
+      "\r\u001b[K\u0007\r\u001b[K\u001b[7m(END)\u001b[27m\u001b[K"
+    ],
+    [
+      1.512481,
+      "\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.008966,
+      "\u001b[?1h\u001b=\r\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.014107,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001704,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001861,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.430364,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mp\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.005653,
+      "\u001b[?25l\u001b[0;38;5;241most\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Pragma                 \u001b[0;38;5;0;48;5;246m Implementation-specific directives     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Prefer                 \u001b[0;38;5;0;48;5;246m Preferred server behaviors             \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)                  \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m patch                  \u001b[0;38;5;0;48;5;246m GET request                            \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                           \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.156332,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mo\u001b[0m  \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004019,
+      "\u001b[?25l\u001b[0;38;5;241mst\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m post                   \u001b[0;38;5;0;48;5;246m POST request                        \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Authorization    \u001b[0;38;5;0;48;5;246m Proxy authorization credentials     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Proxy-Connection       \u001b[0;38;5;0;48;5;246m Proxy connection options            \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --proxy                \u001b[0;38;5;0;48;5;246m Specify proxy URL                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Forwarded-Proto      \u001b[0;38;5;0;48;5;246m Originating protocol                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m options                \u001b[0;38;5;0;48;5;246m OPTIONS request                     \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m password               \u001b[0;38;5;0;48;5;246m Body parameter (=bar)               \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.101415,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233ms\u001b[0m \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[7A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001855,
+      "\u001b[?25l\u001b[0;38;5;241mt\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m post    \u001b[0;38;5;0;48;5;246m POST request    \u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m options \u001b[0;38;5;0;48;5;246m OPTIONS request \u001b[0;48;5;238m \u001b[2A\u001b[27D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076173,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;81mpost\u001b[0m\r\r\n\u001b[28C\u001b[0m                           \u001b[0m\r\r\n\u001b[28C\u001b[0m                           \u001b[2A\u001b[26D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002081,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.099584,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004493,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate         \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download         \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[30C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.498476,
+      "\u001b[?25l\u001b[0;38;5;197m|\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[31C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001755,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.152703,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004935,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate         \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download         \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[32C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.246203,
+      "\u001b[?25l\u001b[0;38;5;15mg\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[33C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00444,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Upgrade               \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another ... \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --ignore-stdin        \u001b[0;38;5;0;48;5;246m Do not read stdin                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Origin                \u001b[0;38;5;0;48;5;246m Origin(s) issuing the request           \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Pragma                \u001b[0;38;5;0;48;5;246m Implementation-specific directives      \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Range                 \u001b[0;38;5;0;48;5;246m Request transfer of only part of data   \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --debug               \u001b[0;38;5;0;48;5;246m Print debug information                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m If-Range              \u001b[0;38;5;0;48;5;246m Request condition on Range              \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[33C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.210292,
+      "\u001b[?25l\u001b[0;38;5;15mr\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[34C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002036,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Upgrade        \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --ignore-stdin \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[64C\u001b[0;48;5;238m \u001b[2A\r\u001b[34C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.093791,
+      "\u001b[?25l\u001b[0;38;5;15me\u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[2A\r\u001b[35C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001892,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m Upgrade        \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another protocol \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[2C\u001b[0;38;5;0;48;5;250m --ignore-stdin \u001b[0;38;5;0;48;5;246m Do not read stdin                            \r\u001b[64C\u001b[0;48;5;238m \u001b[2A\r\u001b[35C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.16543,
+      "\u001b[?25l\u001b[0;38;5;15mp\u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[0m\r\r\n\u001b[2C\u001b[0m                                                              \r\u001b[64C \u001b[2A\r\u001b[36C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002097,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.092757,
+      "\u001b[?25l\u001b[0;38;5;15m \u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.004103,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                 \u001b[0;38;5;0;48;5;246m Do authentication                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type            \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used    \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --body                 \u001b[0;38;5;0;48;5;246m Print only response body               \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert                 \u001b[0;38;5;0;48;5;246m Specify client SSL certificate         \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --cert-key             \u001b[0;38;5;0;48;5;246m The private key to use with SSL        \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --check-status         \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --continue             \u001b[0;38;5;0;48;5;246m Resume an interrupted download         \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[37C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.157571,
+      "\u001b[?25l\u001b[0;38;5;15mu\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[38C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003539,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Upgrade               \u001b[0;38;5;0;48;5;246m Invite server to upgrade to another ... \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m User-Agent            \u001b[0;38;5;0;48;5;246m User agent string                       \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m username              \u001b[0;38;5;0;48;5;246m Body parameter (=foo)                   \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Authorization         \u001b[0;38;5;0;48;5;246m Authentication information (=Bearer ... \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth                \u001b[0;38;5;0;48;5;246m Do authentication                       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --auth-type           \u001b[0;38;5;0;48;5;246m Authentication mechanism to be used     \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m --output              \u001b[0;38;5;0;48;5;246m Save output to a file                   \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[38C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.084134,
+      "\u001b[?25l\u001b[0;38;5;15ms\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003931,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m User-Agent          \u001b[0;38;5;0;48;5;246m User agent string                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m username            \u001b[0;38;5;0;48;5;246m Body parameter (=foo)                  \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Alt-Used            \u001b[0;38;5;0;48;5;246m Alternative host in use                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m --check-status      \u001b[0;38;5;0;48;5;246m Check HTTP status code                 \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Requested-With    \u001b[0;38;5;0;48;5;246m Used to identify Ajax requests         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m If-Unmodified-Since \u001b[0;38;5;0;48;5;246m Request condition on modification date \r\u001b[64C\u001b[0;48;5;238m \u001b[6A\r\u001b[39C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.060843,
+      "\u001b[?25l\u001b[0;38;5;15me\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[6A\r\u001b[40C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.003088,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m User-Agent          \u001b[0;38;5;0;48;5;246m User agent string                      \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m username            \u001b[0;38;5;0;48;5;246m Body parameter (=foo)                  \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m Alt-Used            \u001b[0;38;5;0;48;5;246m Alternative host in use                \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m X-Requested-With    \u001b[0;38;5;0;48;5;246m Used to identify Ajax requests         \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[3C\u001b[0;38;5;0;48;5;250m If-Unmodified-Since \u001b[0;38;5;0;48;5;246m Request condition on modification date \r\u001b[64C\u001b[0;48;5;238m \u001b[5A\r\u001b[40C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.083357,
+      "\u001b[?25l\u001b[0;38;5;15mr\u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[0m\r\r\n\u001b[3C\u001b[0m                                                             \r\u001b[64C \u001b[5A\r\u001b[41C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001893,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m User-Agent \u001b[0;38;5;0;48;5;246m User agent string     \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m username   \u001b[0;38;5;0;48;5;246m Body parameter (=foo) \r\u001b[64C\u001b[0;48;5;238m \u001b[2A\r\u001b[41C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.134793,
+      "\u001b[?25l\u001b[0;38;5;15mn\u001b[0m\r\r\n\u001b[29C\u001b[0m                                   \r\u001b[64C \u001b[0m\r\r\n\u001b[29C\u001b[0m                                   \r\u001b[64C \u001b[2A\r\u001b[42C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00219,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m username   \u001b[0;38;5;0;48;5;246m Body parameter (=foo) \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[29C\u001b[0;38;5;0;48;5;250m User-Agent \u001b[0;38;5;0;48;5;246m User agent string     \r\u001b[64C\u001b[0;48;5;238m \u001b[2A\r\u001b[42C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.148595,
+      "\u001b[?25l\u001b[0;38;5;15ma\u001b[0m\r\r\n\u001b[29C\u001b[0m                                   \r\u001b[64C \u001b[0m\r\r\n\u001b[29C\u001b[0m                                   \r\u001b[64C \u001b[2A\r\u001b[43C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002428,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m username \u001b[0;38;5;0;48;5;246m Body parameter (=foo) \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[43C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.055395,
+      "\u001b[?25l\u001b[0;38;5;15mm\u001b[0m\r\r\n\u001b[31C\u001b[0m                                 \r\u001b[64C \u001b[A\r\u001b[44C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001848,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[31C\u001b[0;38;5;0;48;5;250m username \u001b[0;38;5;0;48;5;246m Body parameter (=foo) \r\u001b[64C\u001b[0;48;5;238m \u001b[A\r\u001b[44C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.206152,
+      "\u001b[?25l\u001b[0;38;5;15me\u001b[0m\r\r\n\u001b[31C\u001b[0m                                 \r\u001b[64C \u001b[A\r\u001b[45C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001209,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.981456,
+      "\u001b[?25l\u001b[45D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;81mpost\u001b[0;38;5;15m \u001b[0;38;5;197m|\u001b[0;38;5;15m grep username\u001b[45D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00017,
+      "\u001b[?2004l"
+    ],
+    [
+      0.467204,
+      "\u001b[?1h\u001b=\r  \"data\": \"{\\\"password\\\": \\\"bar\\\", \\\"username\\\": \\\"foo\\\"}\", \u001b[m\r\n    \"username\": \"foo\"\u001b[m\r\n\r\u001b[K\u001b[?1l\u001b>"
+    ],
+    [
+      0.016323,
+      "\u001b[?1l\u001b[6n"
+    ],
+    [
+      0.001692,
+      "\u001b[?2004h\u001b[?25l\u001b[?7l\u001b[0m\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0m\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\r\r\n\u001b[7A\u001b[25C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.001851,
+      "\u001b[?25l\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      2.980127,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233me\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.00471,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Expect                 \u001b[0;38;5;0;48;5;246m Expected behaviors supported by server \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m env                    \u001b[0;38;5;0;48;5;246m Print environment                      \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m exec                   \u001b[0;38;5;0;48;5;246m Clear and load environment from a file \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m exit                   \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt                       \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Depth                  \u001b[0;38;5;0;48;5;246m Applied only to resource or its mem... \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m Referer                \u001b[0;38;5;0;48;5;246m Previous web page                      \r\u001b[64C\u001b[0;48;5;102m \u001b[0m\r\r\n\u001b[0;38;5;0;48;5;250m TE                     \u001b[0;38;5;0;48;5;246m Transfer codings willing to accept     \r\u001b[64C\u001b[0;48;5;102m \u001b[7A\r\u001b[26C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.131579,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mx\u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[0m                                                                \r\u001b[64C \u001b[7A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.026095,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[16C\u001b[0;38;5;0;48;5;250m Expect \u001b[0;38;5;0;48;5;246m Expected behaviors supported by server \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[16C\u001b[0;38;5;0;48;5;250m exec   \u001b[0;38;5;0;48;5;246m Clear and load environment from a file \r\u001b[64C\u001b[0;48;5;238m \u001b[0m\r\r\n\u001b[16C\u001b[0;38;5;0;48;5;250m exit   \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt                       \r\u001b[64C\u001b[0;48;5;238m \u001b[3A\r\u001b[27C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.189643,
+      "\u001b[?25l\u001b[0;38;5;89;48;5;233mi\u001b[0m\r\r\n\u001b[16C\u001b[0m                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[16C\u001b[0m                                                \r\u001b[64C \u001b[0m\r\r\n\u001b[16C\u001b[0m                                                \r\u001b[64C \u001b[3A\r\u001b[28C\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.002605,
+      "\u001b[?25l\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;0;48;5;250m exit  \u001b[0;38;5;0;48;5;246m Exit HTTP Prompt \u001b[0;48;5;238m \u001b[A\u001b[26D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.405679,
+      "\u001b[?25l\u001b[3D\u001b[0;38;5;81mexit\u001b[0m\r\r\n\u001b[28C\u001b[0;38;5;15;48;5;102m exit  \u001b[0;38;5;0;48;5;248m Exit HTTP Prompt \u001b[A\u001b[24D\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.437882,
+      "\u001b[?25l\u001b[29D\u001b[0m\u001b[J\u001b[0mhttp://httpbin.org/post> \u001b[0;38;5;81mexit\u001b[29D\u001b[0m\r\r\n\u001b[J\u001b[?7h\u001b[0m\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.000165,
+      "\u001b[?2004l"
+    ],
+    [
+      0.000403,
+      "Goodbye!\r\n"
+    ],
+    [
+      0.068419,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                \r \r"
+    ],
+    [
+      0.104615,
+      "\u001b]2;eliang@eliang: ~\u0007\u001b]1;~\u0007"
+    ],
+    [
+      0.015362,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\u001b[33m~ ➤ \u001b[00m\u001b[K\u001b[60C\u001b[33m\u001b[00m\u001b[60D"
+    ],
+    [
+      8.7e-05,
+      "\u001b[?1h\u001b="
+    ],
+    [
+      1.4e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      1.43181,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
