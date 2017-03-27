@@ -7,14 +7,14 @@
       </div>
       <div class="collapse navbar-toggleable-xs" id="main-nav">
         <ul class="nav navbar-nav float-xs-right">
+					<li class="nav-item{% if page.current_nav == 'early-access' %} active{% endif %}">
+            <a class="nav-item nav-link" href="/early-access" style="color:#5cb85c;">Early Acccess</a>
+          </li>
 					<li class="nav-item{% if page.current_nav == 'themes' %} active{% endif %}">
             <a class="nav-item nav-link" href="/themes">Themes</a>
           </li>
           <li class="nav-item">
 						<a class="nav-item nav-link " href="{{ site.docs_url }}">Docs</a>
-          </li>
-					<li class="nav-item">
-						<a class="nav-item nav-link" href="{{ site.patreon_url }}">Sponsor</a>
           </li>
           <li class="nav-item">
 						<a class="nav-item nav-link " href="{{ site.gitter_url }}">Chat</a>
