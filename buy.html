@@ -8,54 +8,12 @@ title: HTTP Prompt - Signing up for Early Access
 
 <h1>Signing up for Early Access</h1>
 
-<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top" onsubmit="return checkForm(this);">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="V5ALYWFSAKC98">
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="on0" value="">
-
-<p style="text-align:center;">How should we bill you?</p>
-
-<div class="bill">
-  <div class="btn-group" data-toggle="buttons">
-    <label class="btn btn-secondary btn-lg active">
-      <input type="radio" name="os0" id="monthly-bill" autocomplete="off" value="Monthly" checked>$5 USD / month
-    </label>
-    <label class="btn btn-secondary btn-lg">
-      <input type="radio" name="os0" id="annual-bill" value="Annual" autocomplete="off"> $50 USD / year
-    </label>
-  </div>
-</div>
-
-{% comment %}
 {% if jekyll.environment == "production" %}
   {% include checkout_form_prod.html %}
 {% else %}
   {% include checkout_form_dev.html %}
 {% endif %}
-{% endcomment %}
 
-<div class="terms">
-<h2>Terms of Use</h2>
-<ol>
-  <li>You'll be given a unique access key to access our private PyPI server.</li>
-  <li>You may install the package on many computers as you like, but the license is authorized to a single user only. You are <b>NOT</b> allowed to share the access key with any other people.</li>
-  <li>You are <b>NOT</b> allowed to redistribute nor share the package with any others.</li>
-  <li>We'll do our best to maintain the software in good quality, but we are not liable for any damages done to your computers or systems.</li>
-  <li>You may ask for a full refund within 14 days of purchase. After that, the payment is non-refundable. If you unsubscribe, the subscription will continue until the end of that month's (or year's, depending on your plan) billing period.</li>
-  <li>Read the full <a href="{{ site.comm_license_url  }}">End-User License Agreement</a> for more detail.</li>
-</ol>
-</div>
-
-<div class="form-check" style="text-align:center;margin-bottom:20px;">
-  <label class="form-check-label">
-    <input type="checkbox" class="form-check-input" id="agree"> I agree to the terms
-  </label>
-</div>
-
-<div style="text-align:center;"><input type="image" src="/assets/img/checkout.png" alt="Checkout with PayPal"></div>
-
-</form>
 </div>
 
 <!-- Modal -->
