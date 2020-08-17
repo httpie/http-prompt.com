@@ -1,6 +1,6 @@
 # HTTP Prompt website
 
-http://http-prompt.com/
+https://http-prompt.com/
 
 ```
 bundle exec jekyll serve
