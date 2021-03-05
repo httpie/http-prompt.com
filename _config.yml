@@ -22,7 +22,7 @@ url: "https://http-prompt.com" # the base hostname & protocol for your site, e.g
 docs_url: "http://docs.http-prompt.com"
 docs_baseurl: "http://docs.http-prompt.com/en/latest"
 github_url: "https://github.com/eliangcs/http-prompt"
-gitter_url: "https://gitter.im/eliangcs/http-prompt"
+gitter_url: "https://httpie.io/chat"
 producthunt_url: "https://www.producthunt.com/posts/http-prompt"
 license_url: "https://github.com/eliangcs/http-prompt/blob/master/LICENSE"
 comm_license_url: "https://github.com/eliangcs/http-prompt/blob/master/COMM-LICENSE"
