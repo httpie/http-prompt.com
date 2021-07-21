@@ -19,13 +19,13 @@ description: > # this means to ignore newlines until "baseurl:"
   and syntax highlighting, built on HTTPie and prompt_toolkit.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://http-prompt.com" # the base hostname & protocol for your site, e.g. http://example.com
-docs_url: "http://docs.http-prompt.com"
-docs_baseurl: "http://docs.http-prompt.com/en/latest"
-github_url: "https://github.com/eliangcs/http-prompt"
+docs_url: "https://docs.http-prompt.com"
+docs_baseurl: "https://docs.http-prompt.com/en/latest"
+github_url: "https://github.com/httpie/http-prompt"
 gitter_url: "https://httpie.io/chat"
 producthunt_url: "https://www.producthunt.com/posts/http-prompt"
-license_url: "https://github.com/eliangcs/http-prompt/blob/master/LICENSE"
-comm_license_url: "https://github.com/eliangcs/http-prompt/blob/master/COMM-LICENSE"
+license_url: "https://github.com/httpie/http-prompt/blob/master/LICENSE"
+comm_license_url: "https://github.com/httpie/http-prompt/blob/master/LICENSE"
 creator_github_url: "https://github.com/eliangcs"
 creator_name: "Chang-Hung Liang"
 
